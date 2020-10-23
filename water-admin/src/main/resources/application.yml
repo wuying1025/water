@@ -1,0 +1,6 @@
+spring: 
+  profiles:
+    active: dev
+
+cron:
+  timer: "0 0/30 * * * ?"
